@@ -1,3 +1,5 @@
+**Please Note! This repository has been permanently moved to https://github.com/directivegames/DriftUE4Base**
+
 # DriftUE4Base
 Base module for Drift UE4 Integration
 
